@@ -30,3 +30,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/403kill.git
 cd 403kill
+python3 403k1ll.py
