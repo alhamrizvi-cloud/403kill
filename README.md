@@ -1,7 +1,7 @@
 # 403kill
 403kill is a security‑testing utility designed to help penetration testers and security engineers analyze and enumerate 403 Forbidden responses.
 
-# 403kill
+# About
 
 403kill is a lightweight, authorization‑required security testing tool that helps identify and analyze **HTTP 403 Forbidden** responses.  
 It tests multiple harmless bypass techniques to detect potential misconfigurations or alternative access paths on systems **you have permission to assess**.
